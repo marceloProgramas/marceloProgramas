@@ -1,5 +1,5 @@
 - I’m @marceloProgramas
-- I’m interested in back-end
+- I’m interested in front-end
 - I’m currently learning javascript
 - I’m looking to collaborate on projects
 - email: marcelomartinsfarinassojr@gmail.com
