@@ -4,6 +4,7 @@
 - I’m looking to collaborate on projects
 - email: marcelovagas11@gmail.com
 - Linkedin https://www.linkedin.com/in/marcelo-martins-farinasso-junior
+- hugging Faces: https://huggingface.co/marceloProgramas
 
 <!---
 marceloProgramas/marceloProgramas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
