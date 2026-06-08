@@ -36,7 +36,18 @@ Atualmente cursando o 7º período de Ciência da Computação na Universidade C
  
 ### 📂 Portfólio de Projetos
 
-#### 🤖 Inteligência Artificial
+#### 🌐 Websites
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Doe-sua-tampinha** | Web site que localiza os pontos de coleta mais proximos de você | [Ver Projeto](https://github.com/marceloProgramas/Doe-sua-tampinha) |
+| **Zelda wiki** | Web site que mostra as informações do jogos das serie zelda | [Ver Projeto](https://github.com/marceloProgramas/ZeldaWiki) |
+
+#### 🤖 automatização
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Transformacep** | automatizaação que envia dados para o firebase | [Ver Projeto](https://github.com/marceloProgramas/Doe-sua-tampinha) |
+
+#### 🤖 Jogos Educativos
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Skill journey** | Jogo vocacional Skill journey | [Ver Projeto](https://github.com/marceloProgramas/Skill-Journey)|
