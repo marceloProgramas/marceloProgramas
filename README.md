@@ -45,7 +45,7 @@ Atualmente cursando o 7º período de Ciência da Computação na Universidade C
 | :--- | :--- | :---: |
 | **Transformacep** | automatização que envia dados para o firebase | [Ver Projeto](https://github.com/marceloProgramas/Transformarcep) |
 
-#### 🤖 Jogos Educativos
+#### 🎮 Jogos Educativos
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Skill journey** | Jogo vocacional Skill journey | [Ver Projeto](https://github.com/marceloProgramas/Skill-Journey)|
