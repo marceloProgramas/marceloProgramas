@@ -39,4 +39,4 @@ Atualmente cursando o 7º período de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Doe-sua-tampinha** | Web site que localiza os pontos de coleta mais proximos de você | [Ver Projeto]([./projeto-laboratorio-de-classificacao-visual/](https://github.com/marceloProgramas/Doe-sua-tampinha)) |
+| **Doe-sua-tampinha** | Web site que localiza os pontos de coleta mais proximos de você | [Ver Projeto](https://github.com/marceloProgramas/Doe-sua-tampinha) |
